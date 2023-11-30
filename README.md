@@ -53,13 +53,13 @@ These are common elements that are shown in every page of app. In app bar you se
 
 
 ### Dependencies
-  cupertino_icons: ^1.0.2
-  flutter_riverpod: ^2.4.0
-  go_router: ^10.1.2
-  riverpod: ^2.4.0
-  shared_preferences: ^2.2.1
-  google_fonts: ^6.1.0
-  firebase_core: ^2.23.0
-  cloud_firestore: ^4.13.2
-  firebase_auth: ^4.14.1
-  firebase_ui_firestore: ^1.5.14
+* cupertino_icons: ^1.0.2
+* flutter_riverpod: ^2.4.0
+* go_router: ^10.1.2
+* riverpod: ^2.4.0
+* shared_preferences: ^2.2.1
+* google_fonts: ^6.1.0
+* firebase_core: ^2.23.0
+* cloud_firestore: ^4.13.2
+* firebase_auth: ^4.14.1
+* firebase_ui_firestore: ^1.5.14
